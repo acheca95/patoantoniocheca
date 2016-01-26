@@ -3,6 +3,8 @@ click en editar para copiar
 /**
 *main de pato
 *//
+
+
 package pato;
 
 import java.util.Scanner;
@@ -20,6 +22,8 @@ public class pato_entornos {
 //**
 *clase de pato
 *//
+
+
 package pato;
 import java.util.Scanner;
 	public class pato
