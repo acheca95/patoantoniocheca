@@ -1,3 +1,4 @@
+click en editar para copiar
 # patoantoniocheca
 /**
 *main de pato
